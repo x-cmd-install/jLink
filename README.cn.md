@@ -22,7 +22,7 @@ x install jLink
 | Bash | 218 | 0 | 3 | 1 |
 | Makefile | 42 | 0 | 13 | 1 |
 | Svg | 26 | 0 | 0 | 1 |
-| Markdown | 0 | 236 | 103 | 6 |
+| Markdown | 0 | 240 | 106 | 6 |
 
 ## 源代码
 
@@ -32,16 +32,16 @@ x install jLink
 ## 发布
 
 - **最新版本**: `v1.0.0` (2026-09-09)
-- **最近提交**: 2026-09-09
+- **最近提交**: 2026-09-11
 - **Release 含资产**: 10 个
 
 ## 流行度
 
-- **Star**: 100 · **Fork**: 13 · **开放 issue**: 34 · **贡献者**: 5
+- **Star**: 100 · **Fork**: 13 · **开放 issue**: 35 · **贡献者**: 5
 
 ## 累计统计
 
-- **发布数**: 3 · **已合并 PR**: 1 · **开放 PR**: 0 · **已关闭 issue**: 34 · **开放 issue**: 0 · **提交数**: 70
+- **发布数**: 3 · **已合并 PR**: 1 · **开放 PR**: 0 · **已关闭 issue**: 35 · **开放 issue**: 0 · **提交数**: 72
 
 ## 最近活动
 
@@ -78,4 +78,4 @@ jLink 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260911.yml` · 2026-09-11T03:16:53Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T20:44:45Z._

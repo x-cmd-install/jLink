@@ -22,7 +22,7 @@ Total: **41,274** lines of code across **237** files in the top 5 languages.
 | Bash | 218 | 0 | 3 | 1 |
 | Makefile | 42 | 0 | 13 | 1 |
 | Svg | 26 | 0 | 0 | 1 |
-| Markdown | 0 | 236 | 103 | 6 |
+| Markdown | 0 | 240 | 106 | 6 |
 
 ## Source
 
@@ -32,16 +32,16 @@ Total: **41,274** lines of code across **237** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.0.0` (2026-09-09)
-- **Last commit**: 2026-09-09
+- **Last commit**: 2026-09-11
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 100 · **Forks**: 13 · **Open issues**: 34 · **Contributors**: 5
+- **Stars**: 100 · **Forks**: 13 · **Open issues**: 35 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 3 · **Merged PRs**: 1 · **Open PRs**: 0 · **Closed issues**: 34 · **Open issues**: 0 · **Commits**: 70
+- **Releases**: 3 · **Merged PRs**: 1 · **Open PRs**: 0 · **Closed issues**: 35 · **Open issues**: 0 · **Commits**: 72
 
 ## Recent activity
 
@@ -78,4 +78,4 @@ Install metadata for jLink lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T03:16:52Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:44:45Z._
