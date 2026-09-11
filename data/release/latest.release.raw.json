@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 4184764,
       "digest": "sha256:b16828cabf208daf0a8f96a317db1138eed1f82f73ae7968d77a8c10dff16bdc",
-      "download_count": 16,
+      "download_count": 28,
       "created_at": "2026-09-09T23:28:45Z",
       "updated_at": "2026-09-09T23:28:46Z",
       "browser_download_url": "https://github.com/Watchdog0x/jabridge/releases/download/v1.0.0/jabridge_1.0.0_linux_amd64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 100,
       "digest": "sha256:9273af436df392651b95a9139f7d32cfd135b67ccf7bd4cc030319c4f0c19210",
-      "download_count": 3,
+      "download_count": 7,
       "created_at": "2026-09-09T23:28:45Z",
       "updated_at": "2026-09-09T23:28:45Z",
       "browser_download_url": "https://github.com/Watchdog0x/jabridge/releases/download/v1.0.0/jabridge_1.0.0_linux_amd64.tar.gz.sha256"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 88,
       "digest": "sha256:e7efbec60056de14832fb903380dfa4255bfd6c1fb31f75242fb2ffebc02b341",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-09-09T23:28:46Z",
       "updated_at": "2026-09-09T23:28:46Z",
       "browser_download_url": "https://github.com/Watchdog0x/jabridge/releases/download/v1.0.0/jabridge_1.0.0_linux_amd64.tar.gz.sig"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3766190,
       "digest": "sha256:eec568e2f90b10774e462bcd750e3b4205bc08d31944baa770ee4a40184c04b1",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-09T23:28:45Z",
       "updated_at": "2026-09-09T23:28:46Z",
       "browser_download_url": "https://github.com/Watchdog0x/jabridge/releases/download/v1.0.0/jabridge_1.0.0_linux_arm64.tar.gz"

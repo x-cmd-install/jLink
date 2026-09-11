@@ -2,15 +2,15 @@ about:
   description: "Independent Linux tool for supported Jabra headsets and USB dongles. Native Go no vendor runtime required."
   license: Apache-2.0
   homepage: 
-  head: 3059f1c
+  head: e712155
   archived: false
   latestVersion: "v1.0.0"
   latestRelease: "v1.0.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T03:16:46Z
+  collectedAt: 2026-09-11T20:44:26Z
 timeline:
   created: 2024-12-22
-  lastCommit: 2026-09-09
+  lastCommit: 2026-09-11
   lastVersion: 2026-09-09
   lastRelease: 2026-09-09
   lastPrerelease: 
@@ -21,7 +21,7 @@ popularity:
   release: 3
   contributor: 5
   pullRequest: 6
-  issue: 34
+  issue: 35
 language:
   Go: 1455225
   Shell: 14004
@@ -80,12 +80,12 @@ total:
   release: 3
   mergedPR: 1
   openPR: 0
-  closedIssue: 34
+  closedIssue: 35
   openIssue: 0
-  commit: 70
+  commit: 72
 ---
 path: /home/runner/.x-repo/github.com/Watchdog0x/jLink
-collectedAt: 2026-09-11T03:16:48Z
+collectedAt: 2026-09-11T20:44:30Z
 loc:
   Go:
     code: 40988
@@ -109,13 +109,13 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 236
-    blanks: 103
+    comments: 240
+    blanks: 106
     files: 6
 total:
-  code: 41322
-  comments: 1927
-  blanks: 2940
+  code: 41325
+  comments: 1931
+  blanks: 2943
   files: 237
 ---
 
