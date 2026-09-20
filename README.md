@@ -4,7 +4,7 @@
 
 Independent Linux tool for supported Jabra headsets and USB dongles. Native Go no vendor runtime required.
 
-![jLink](https://repo.x-cmd.io/jLink.svg)
+[![x-cmd/install — jLink Code Quality Monitoring Repo Card](https://repo.x-cmd.io/jLink.svg)](https://x-cmd.com/install/jLink)
 
 ## Install
 
@@ -22,7 +22,7 @@ Total: **59,196** lines of code across **335** files in the top 5 languages.
 | Bash | 225 | 0 | 3 | 1 |
 | Makefile | 44 | 0 | 14 | 1 |
 | Svg | 26 | 0 | 0 | 1 |
-| Markdown | 0 | 786 | 243 | 8 |
+| Markdown | 0 | 794 | 246 | 8 |
 
 ## Source
 
@@ -31,28 +31,28 @@ Total: **59,196** lines of code across **335** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.1.1-issue43.1` (2026-09-17)
-- **Last commit**: 2026-09-17
+- **Latest**: `v1.1.1-test.1` (2026-09-17)
+- **Last commit**: 2026-09-19
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 106 · **Forks**: 13 · **Open issues**: 38 · **Contributors**: 5
+- **Stars**: 107 · **Forks**: 13 · **Open issues**: 38 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 7 · **Merged PRs**: 2 · **Open PRs**: 0 · **Closed issues**: 37 · **Open issues**: 1 · **Commits**: 78
+- **Releases**: 9 · **Merged PRs**: 2 · **Open PRs**: 0 · **Closed issues**: 37 · **Open issues**: 1 · **Commits**: 79
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-23 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-28 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-21 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-25 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-30 | 9 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for jLink lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T03:27:52Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T03:41:17Z._
