@@ -33,7 +33,6 @@ Total: **62,351** lines of code across **359** files in the top 5 languages.
 
 - **Latest**: `v1.3.0` (2026-10-23)
 - **Last commit**: 2026-10-23
-- **Assets in release**: 10
 
 ## Popularity
 
@@ -47,27 +46,12 @@ Total: **62,351** lines of code across **359** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-25 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-26 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-27 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-29 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-03 | 9 | 0 | 0 | 0 | 0 | 0 |
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [jabridge_1.3.0_linux_amd64.tar.gz](https://github.com/Watchdog0x/jLink/releases/download/v1.3.0/jabridge_1.3.0_linux_amd64.tar.gz) | 4.3 MiB | `native/linux/x64` |
-| [jabridge_1.3.0_linux_amd64.tar.gz.sha256](https://github.com/Watchdog0x/jLink/releases/download/v1.3.0/jabridge_1.3.0_linux_amd64.tar.gz.sha256) | 100 B | `native/linux/x64` |
-| [jabridge_1.3.0_linux_amd64.tar.gz.sig](https://github.com/Watchdog0x/jLink/releases/download/v1.3.0/jabridge_1.3.0_linux_amd64.tar.gz.sig) | 88 B | `native/linux/x64` |
-| [jabridge_1.3.0_linux_arm64.tar.gz](https://github.com/Watchdog0x/jLink/releases/download/v1.3.0/jabridge_1.3.0_linux_arm64.tar.gz) | 3.9 MiB | `native/linux/arm64` |
-| [jabridge_1.3.0_linux_arm64.tar.gz.sha256](https://github.com/Watchdog0x/jLink/releases/download/v1.3.0/jabridge_1.3.0_linux_arm64.tar.gz.sha256) | 100 B | `native/linux/arm64` |
-| [jabridge_1.3.0_linux_arm64.tar.gz.sig](https://github.com/Watchdog0x/jLink/releases/download/v1.3.0/jabridge_1.3.0_linux_arm64.tar.gz.sig) | 88 B | `native/linux/arm64` |
-| [jabridge_1.3.0_source.tar.gz](https://github.com/Watchdog0x/jLink/releases/download/v1.3.0/jabridge_1.3.0_source.tar.gz) | 659.8 KiB | `native/unknown` |
-| [jabridge_1.3.0_source.tar.gz.sha256](https://github.com/Watchdog0x/jLink/releases/download/v1.3.0/jabridge_1.3.0_source.tar.gz.sha256) | 95 B | `other` |
-| [jabridge_1.3.0_source.tar.gz.sig](https://github.com/Watchdog0x/jLink/releases/download/v1.3.0/jabridge_1.3.0_source.tar.gz.sig) | 88 B | `other` |
-| [SHA256SUMS](https://github.com/Watchdog0x/jLink/releases/download/v1.3.0/SHA256SUMS) | 295 B | `other` |
+| 30d | 2026-09-25 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-26 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-27 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-28 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-30 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-04 | 9 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -78,4 +62,4 @@ Install metadata for jLink lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T03:30:18Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T03:26:37Z._
