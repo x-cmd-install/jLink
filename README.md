@@ -14,15 +14,15 @@ x install jLink
 
 ## Code insight
 
-Total: **62,351** lines of code across **359** files in the top 5 languages.
+Total: **62,413** lines of code across **359** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 62,056 | 2,157 | 3,749 | 347 |
+| Go | 62,118 | 2,175 | 3,753 | 347 |
 | Bash | 225 | 0 | 3 | 1 |
 | Makefile | 44 | 0 | 14 | 1 |
 | Svg | 26 | 0 | 0 | 1 |
-| Markdown | 0 | 1,124 | 332 | 9 |
+| Markdown | 0 | 1,199 | 349 | 9 |
 
 ## Source
 
@@ -31,27 +31,43 @@ Total: **62,351** lines of code across **359** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.3.0` (2026-10-23)
-- **Last commit**: 2026-10-23
+- **Latest**: `v1.4.0` (2026-10-25)
+- **Last commit**: 2026-10-25
+- **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 120 · **Forks**: 17 · **Open issues**: 41 · **Contributors**: 8
+- **Stars**: 121 · **Forks**: 18 · **Open issues**: 41 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 5 · **Open PRs**: 0 · **Closed issues**: 40 · **Open issues**: 1 · **Commits**: 90
+- **Releases**: 10 · **Merged PRs**: 6 · **Open PRs**: 0 · **Closed issues**: 40 · **Open issues**: 1 · **Commits**: 97
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-26 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-27 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-28 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-30 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-04 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-26 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-27 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-28 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-29 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-31 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-05 | 10 | 0 | 0 | 0 | 0 | 0 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [jabridge_1.4.0_linux_amd64.tar.gz](https://github.com/Watchdog0x/jLink/releases/download/v1.4.0/jabridge_1.4.0_linux_amd64.tar.gz) | 4.3 MiB | `native/linux/x64` |
+| [jabridge_1.4.0_linux_amd64.tar.gz.sha256](https://github.com/Watchdog0x/jLink/releases/download/v1.4.0/jabridge_1.4.0_linux_amd64.tar.gz.sha256) | 100 B | `native/linux/x64` |
+| [jabridge_1.4.0_linux_amd64.tar.gz.sig](https://github.com/Watchdog0x/jLink/releases/download/v1.4.0/jabridge_1.4.0_linux_amd64.tar.gz.sig) | 88 B | `native/linux/x64` |
+| [jabridge_1.4.0_linux_arm64.tar.gz](https://github.com/Watchdog0x/jLink/releases/download/v1.4.0/jabridge_1.4.0_linux_arm64.tar.gz) | 3.9 MiB | `native/linux/arm64` |
+| [jabridge_1.4.0_linux_arm64.tar.gz.sha256](https://github.com/Watchdog0x/jLink/releases/download/v1.4.0/jabridge_1.4.0_linux_arm64.tar.gz.sha256) | 100 B | `native/linux/arm64` |
+| [jabridge_1.4.0_linux_arm64.tar.gz.sig](https://github.com/Watchdog0x/jLink/releases/download/v1.4.0/jabridge_1.4.0_linux_arm64.tar.gz.sig) | 88 B | `native/linux/arm64` |
+| [jabridge_1.4.0_source.tar.gz](https://github.com/Watchdog0x/jLink/releases/download/v1.4.0/jabridge_1.4.0_source.tar.gz) | 662.3 KiB | `native/unknown` |
+| [jabridge_1.4.0_source.tar.gz.sha256](https://github.com/Watchdog0x/jLink/releases/download/v1.4.0/jabridge_1.4.0_source.tar.gz.sha256) | 95 B | `other` |
+| [jabridge_1.4.0_source.tar.gz.sig](https://github.com/Watchdog0x/jLink/releases/download/v1.4.0/jabridge_1.4.0_source.tar.gz.sig) | 88 B | `other` |
+| [SHA256SUMS](https://github.com/Watchdog0x/jLink/releases/download/v1.4.0/SHA256SUMS) | 295 B | `other` |
 
 ## Improve this data
 
@@ -62,4 +78,4 @@ Install metadata for jLink lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T03:26:37Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T03:29:02Z._
