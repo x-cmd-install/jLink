@@ -14,15 +14,15 @@ x install jLink
 
 ## Code insight
 
-Total: **62,413** lines of code across **359** files in the top 5 languages.
+Total: **70,176** lines of code across **405** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 62,118 | 2,175 | 3,753 | 347 |
-| Bash | 225 | 0 | 3 | 1 |
-| Makefile | 44 | 0 | 14 | 1 |
-| Svg | 26 | 0 | 0 | 1 |
-| Markdown | 0 | 1,199 | 349 | 9 |
+| Go | 69,389 | 2,296 | 4,170 | 400 |
+| Json | 397 | 0 | 0 | 2 |
+| Bash | 259 | 0 | 4 | 1 |
+| Xml | 60 | 7 | 1 | 1 |
+| Makefile | 45 | 0 | 14 | 1 |
 
 ## Source
 
@@ -31,8 +31,8 @@ Total: **62,413** lines of code across **359** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.4.0` (2026-10-25)
-- **Last commit**: 2026-10-25
+- **Latest**: `v1.5.0` (2026-10-31)
+- **Last commit**: 2026-10-31
 - **Assets in release**: 10
 
 ## Popularity
@@ -41,33 +41,33 @@ Total: **62,413** lines of code across **359** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 6 · **Open PRs**: 1 · **Closed issues**: 40 · **Open issues**: 4 · **Commits**: 97
+- **Releases**: 11 · **Merged PRs**: 7 · **Open PRs**: 0 · **Closed issues**: 44 · **Open issues**: 0 · **Commits**: 109
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-01 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-02 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-04 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-05 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-10 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-02 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-02 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-03 | 9 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-05 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-06 | 9 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-11 | 11 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [jabridge_1.4.0_linux_amd64.tar.gz](https://github.com/Watchdog0x/jLink/releases/download/v1.4.0/jabridge_1.4.0_linux_amd64.tar.gz) | 4.3 MiB | `native/linux/x64` |
-| [jabridge_1.4.0_linux_amd64.tar.gz.sha256](https://github.com/Watchdog0x/jLink/releases/download/v1.4.0/jabridge_1.4.0_linux_amd64.tar.gz.sha256) | 100 B | `native/linux/x64` |
-| [jabridge_1.4.0_linux_amd64.tar.gz.sig](https://github.com/Watchdog0x/jLink/releases/download/v1.4.0/jabridge_1.4.0_linux_amd64.tar.gz.sig) | 88 B | `native/linux/x64` |
-| [jabridge_1.4.0_linux_arm64.tar.gz](https://github.com/Watchdog0x/jLink/releases/download/v1.4.0/jabridge_1.4.0_linux_arm64.tar.gz) | 3.9 MiB | `native/linux/arm64` |
-| [jabridge_1.4.0_linux_arm64.tar.gz.sha256](https://github.com/Watchdog0x/jLink/releases/download/v1.4.0/jabridge_1.4.0_linux_arm64.tar.gz.sha256) | 100 B | `native/linux/arm64` |
-| [jabridge_1.4.0_linux_arm64.tar.gz.sig](https://github.com/Watchdog0x/jLink/releases/download/v1.4.0/jabridge_1.4.0_linux_arm64.tar.gz.sig) | 88 B | `native/linux/arm64` |
-| [jabridge_1.4.0_source.tar.gz](https://github.com/Watchdog0x/jLink/releases/download/v1.4.0/jabridge_1.4.0_source.tar.gz) | 662.3 KiB | `native/unknown` |
-| [jabridge_1.4.0_source.tar.gz.sha256](https://github.com/Watchdog0x/jLink/releases/download/v1.4.0/jabridge_1.4.0_source.tar.gz.sha256) | 95 B | `other` |
-| [jabridge_1.4.0_source.tar.gz.sig](https://github.com/Watchdog0x/jLink/releases/download/v1.4.0/jabridge_1.4.0_source.tar.gz.sig) | 88 B | `other` |
-| [SHA256SUMS](https://github.com/Watchdog0x/jLink/releases/download/v1.4.0/SHA256SUMS) | 295 B | `other` |
+| [jabridge_1.5.0_linux_amd64.tar.gz](https://github.com/Watchdog0x/jLink/releases/download/v1.5.0/jabridge_1.5.0_linux_amd64.tar.gz) | 4.4 MiB | `native/linux/x64` |
+| [jabridge_1.5.0_linux_amd64.tar.gz.sha256](https://github.com/Watchdog0x/jLink/releases/download/v1.5.0/jabridge_1.5.0_linux_amd64.tar.gz.sha256) | 100 B | `native/linux/x64` |
+| [jabridge_1.5.0_linux_amd64.tar.gz.sig](https://github.com/Watchdog0x/jLink/releases/download/v1.5.0/jabridge_1.5.0_linux_amd64.tar.gz.sig) | 88 B | `native/linux/x64` |
+| [jabridge_1.5.0_linux_arm64.tar.gz](https://github.com/Watchdog0x/jLink/releases/download/v1.5.0/jabridge_1.5.0_linux_arm64.tar.gz) | 4.0 MiB | `native/linux/arm64` |
+| [jabridge_1.5.0_linux_arm64.tar.gz.sha256](https://github.com/Watchdog0x/jLink/releases/download/v1.5.0/jabridge_1.5.0_linux_arm64.tar.gz.sha256) | 100 B | `native/linux/arm64` |
+| [jabridge_1.5.0_linux_arm64.tar.gz.sig](https://github.com/Watchdog0x/jLink/releases/download/v1.5.0/jabridge_1.5.0_linux_arm64.tar.gz.sig) | 88 B | `native/linux/arm64` |
+| [jabridge_1.5.0_source.tar.gz](https://github.com/Watchdog0x/jLink/releases/download/v1.5.0/jabridge_1.5.0_source.tar.gz) | 746.2 KiB | `native/unknown` |
+| [jabridge_1.5.0_source.tar.gz.sha256](https://github.com/Watchdog0x/jLink/releases/download/v1.5.0/jabridge_1.5.0_source.tar.gz.sha256) | 95 B | `other` |
+| [jabridge_1.5.0_source.tar.gz.sig](https://github.com/Watchdog0x/jLink/releases/download/v1.5.0/jabridge_1.5.0_source.tar.gz.sig) | 88 B | `other` |
+| [SHA256SUMS](https://github.com/Watchdog0x/jLink/releases/download/v1.5.0/SHA256SUMS) | 295 B | `other` |
 
 ## Improve this data
 
@@ -78,4 +78,4 @@ Install metadata for jLink lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T04:20:35Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T04:41:11Z._
