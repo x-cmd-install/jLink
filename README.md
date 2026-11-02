@@ -14,13 +14,13 @@ x install jLink
 
 ## Code insight
 
-Total: **70,176** lines of code across **405** files in the top 5 languages.
+Total: **77,782** lines of code across **445** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 69,389 | 2,296 | 4,170 | 400 |
+| Go | 76,971 | 2,361 | 4,532 | 440 |
 | Json | 397 | 0 | 0 | 2 |
-| Bash | 259 | 0 | 4 | 1 |
+| Bash | 283 | 0 | 4 | 1 |
 | Xml | 60 | 7 | 1 | 1 |
 | Makefile | 45 | 0 | 14 | 1 |
 
@@ -32,27 +32,27 @@ Total: **70,176** lines of code across **405** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.5.0` (2026-10-31)
-- **Last commit**: 2026-10-31
+- **Last commit**: 2026-11-02
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 122 · **Forks**: 18 · **Open issues**: 44 · **Contributors**: 9
+- **Stars**: 122 · **Forks**: 18 · **Open issues**: 45 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 11 · **Merged PRs**: 7 · **Open PRs**: 0 · **Closed issues**: 44 · **Open issues**: 0 · **Commits**: 109
+- **Releases**: 11 · **Merged PRs**: 8 · **Open PRs**: 0 · **Closed issues**: 44 · **Open issues**: 1 · **Commits**: 117
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-02 | 9 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-03 | 9 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-05 | 9 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-06 | 9 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-11 | 11 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-03 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-03 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-04 | 9 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-06 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-07 | 9 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-12 | 11 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for jLink lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T04:41:11Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T04:42:31Z._
