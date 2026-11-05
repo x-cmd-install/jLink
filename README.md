@@ -41,18 +41,18 @@ Total: **77,961** lines of code across **445** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 9 · **Open PRs**: 0 · **Closed issues**: 44 · **Open issues**: 2 · **Commits**: 119
+- **Releases**: 13 · **Merged PRs**: 9 · **Open PRs**: 1 · **Closed issues**: 44 · **Open issues**: 2 · **Commits**: 119
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 6 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-05 | 11 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-06 | 11 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-08 | 11 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-09 | 11 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-14 | 13 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-06 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-06 | 11 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-07 | 11 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-09 | 11 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-10 | 11 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-15 | 13 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for jLink lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T05:01:16Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T05:24:39Z._
