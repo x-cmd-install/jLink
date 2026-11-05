@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 4701147,
       "digest": "sha256:af86d4cc1f52cc4d8050f67035c9a66ffa2e0ffd31856a889eb0db3030328114",
-      "download_count": 45,
+      "download_count": 68,
       "created_at": "2026-11-02T12:15:11Z",
       "updated_at": "2026-11-02T12:15:12Z",
       "browser_download_url": "https://github.com/Watchdog0x/jabridge/releases/download/v1.6.1/jabridge_1.6.1_linux_amd64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 100,
       "digest": "sha256:c1830a210435d1cc3962c22976f062125311d95264eb70663c31d6af3247cb14",
-      "download_count": 27,
+      "download_count": 35,
       "created_at": "2026-11-02T12:15:11Z",
       "updated_at": "2026-11-02T12:15:11Z",
       "browser_download_url": "https://github.com/Watchdog0x/jabridge/releases/download/v1.6.1/jabridge_1.6.1_linux_amd64.tar.gz.sha256"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 88,
       "digest": "sha256:7ee8c09b6ed3f45e3100bca9343b2548dcafd69d8b0987f060db4d9a317e4cf8",
-      "download_count": 26,
+      "download_count": 33,
       "created_at": "2026-11-02T12:15:11Z",
       "updated_at": "2026-11-02T12:15:11Z",
       "browser_download_url": "https://github.com/Watchdog0x/jabridge/releases/download/v1.6.1/jabridge_1.6.1_linux_amd64.tar.gz.sig"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 836845,
       "digest": "sha256:04071298673b2ae1a0099ceb6c75ed2f6b9c34f3bfd38b8867565e1e60d0fdd0",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-02T12:15:12Z",
       "updated_at": "2026-11-02T12:15:12Z",
       "browser_download_url": "https://github.com/Watchdog0x/jabridge/releases/download/v1.6.1/jabridge_1.6.1_source.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 295,
       "digest": "sha256:4b4c3d3c1f10545e0c1ef415681a5286d67f91f65282bca683d7f643553413b7",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-02T12:15:11Z",
       "updated_at": "2026-11-02T12:15:11Z",
       "browser_download_url": "https://github.com/Watchdog0x/jabridge/releases/download/v1.6.1/SHA256SUMS"
