@@ -14,15 +14,15 @@ x install jLink
 
 ## 代码洞察
 
-合计: **77,961** 行代码（覆盖前 5 种语言、共 **445** 个文件）。
+合计: **85,499** 行代码（覆盖前 5 种语言、共 **478** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 77,150 | 2,362 | 4,536 | 440 |
-| Json | 397 | 0 | 0 | 2 |
+| Go | 83,949 | 2,506 | 4,808 | 469 |
+| Json | 915 | 0 | 0 | 6 |
 | Bash | 283 | 0 | 4 | 1 |
-| Xml | 60 | 7 | 1 | 1 |
-| Makefile | 45 | 0 | 14 | 1 |
+| Sh | 113 | 8 | 3 | 1 |
+| Python | 108 | 6 | 1 | 1 |
 
 ## 源代码
 
@@ -31,8 +31,8 @@ x install jLink
 
 ## 发布
 
-- **最新版本**: `v1.6.1` (2026-11-02)
-- **最近提交**: 2026-11-02
+- **最新版本**: `v1.7.0` (2026-11-12)
+- **最近提交**: 2026-11-12
 - **Release 含资产**: 10 个
 
 ## 流行度
@@ -41,33 +41,33 @@ x install jLink
 
 ## 累计统计
 
-- **发布数**: 13 · **已合并 PR**: 9 · **开放 PR**: 1 · **已关闭 issue**: 44 · **开放 issue**: 3 · **提交数**: 119
+- **发布数**: 14 · **已合并 PR**: 10 · **开放 PR**: 0 · **已关闭 issue**: 44 · **开放 issue**: 3 · **提交数**: 127
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 6 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-12 | 10 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-13 | 11 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-15 | 11 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-16 | 11 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-21 | 13 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-13 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-13 | 11 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-14 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-16 | 12 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-17 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-22 | 14 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [jabridge_1.6.1_linux_amd64.tar.gz](https://github.com/Watchdog0x/jLink/releases/download/v1.6.1/jabridge_1.6.1_linux_amd64.tar.gz) | 4.5 MiB | `native/linux/x64` |
-| [jabridge_1.6.1_linux_amd64.tar.gz.sha256](https://github.com/Watchdog0x/jLink/releases/download/v1.6.1/jabridge_1.6.1_linux_amd64.tar.gz.sha256) | 100 B | `native/linux/x64` |
-| [jabridge_1.6.1_linux_amd64.tar.gz.sig](https://github.com/Watchdog0x/jLink/releases/download/v1.6.1/jabridge_1.6.1_linux_amd64.tar.gz.sig) | 88 B | `native/linux/x64` |
-| [jabridge_1.6.1_linux_arm64.tar.gz](https://github.com/Watchdog0x/jLink/releases/download/v1.6.1/jabridge_1.6.1_linux_arm64.tar.gz) | 4.0 MiB | `native/linux/arm64` |
-| [jabridge_1.6.1_linux_arm64.tar.gz.sha256](https://github.com/Watchdog0x/jLink/releases/download/v1.6.1/jabridge_1.6.1_linux_arm64.tar.gz.sha256) | 100 B | `native/linux/arm64` |
-| [jabridge_1.6.1_linux_arm64.tar.gz.sig](https://github.com/Watchdog0x/jLink/releases/download/v1.6.1/jabridge_1.6.1_linux_arm64.tar.gz.sig) | 88 B | `native/linux/arm64` |
-| [jabridge_1.6.1_source.tar.gz](https://github.com/Watchdog0x/jLink/releases/download/v1.6.1/jabridge_1.6.1_source.tar.gz) | 817.2 KiB | `native/unknown` |
-| [jabridge_1.6.1_source.tar.gz.sha256](https://github.com/Watchdog0x/jLink/releases/download/v1.6.1/jabridge_1.6.1_source.tar.gz.sha256) | 95 B | `other` |
-| [jabridge_1.6.1_source.tar.gz.sig](https://github.com/Watchdog0x/jLink/releases/download/v1.6.1/jabridge_1.6.1_source.tar.gz.sig) | 88 B | `other` |
-| [SHA256SUMS](https://github.com/Watchdog0x/jLink/releases/download/v1.6.1/SHA256SUMS) | 295 B | `other` |
+| [jabridge_1.7.0_linux_amd64.tar.gz](https://github.com/Watchdog0x/jLink/releases/download/v1.7.0/jabridge_1.7.0_linux_amd64.tar.gz) | 4.6 MiB | `native/linux/x64` |
+| [jabridge_1.7.0_linux_amd64.tar.gz.sha256](https://github.com/Watchdog0x/jLink/releases/download/v1.7.0/jabridge_1.7.0_linux_amd64.tar.gz.sha256) | 100 B | `native/linux/x64` |
+| [jabridge_1.7.0_linux_amd64.tar.gz.sig](https://github.com/Watchdog0x/jLink/releases/download/v1.7.0/jabridge_1.7.0_linux_amd64.tar.gz.sig) | 88 B | `native/linux/x64` |
+| [jabridge_1.7.0_linux_arm64.tar.gz](https://github.com/Watchdog0x/jLink/releases/download/v1.7.0/jabridge_1.7.0_linux_arm64.tar.gz) | 4.1 MiB | `native/linux/arm64` |
+| [jabridge_1.7.0_linux_arm64.tar.gz.sha256](https://github.com/Watchdog0x/jLink/releases/download/v1.7.0/jabridge_1.7.0_linux_arm64.tar.gz.sha256) | 100 B | `native/linux/arm64` |
+| [jabridge_1.7.0_linux_arm64.tar.gz.sig](https://github.com/Watchdog0x/jLink/releases/download/v1.7.0/jabridge_1.7.0_linux_arm64.tar.gz.sig) | 88 B | `native/linux/arm64` |
+| [jabridge_1.7.0_source.tar.gz](https://github.com/Watchdog0x/jLink/releases/download/v1.7.0/jabridge_1.7.0_source.tar.gz) | 893.1 KiB | `native/unknown` |
+| [jabridge_1.7.0_source.tar.gz.sha256](https://github.com/Watchdog0x/jLink/releases/download/v1.7.0/jabridge_1.7.0_source.tar.gz.sha256) | 95 B | `other` |
+| [jabridge_1.7.0_source.tar.gz.sig](https://github.com/Watchdog0x/jLink/releases/download/v1.7.0/jabridge_1.7.0_source.tar.gz.sig) | 88 B | `other` |
+| [SHA256SUMS](https://github.com/Watchdog0x/jLink/releases/download/v1.7.0/SHA256SUMS) | 295 B | `other` |
 
 ## 改进这些数据
 
@@ -78,4 +78,4 @@ jLink 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261111.yml` · 2026-11-11T04:55:35Z._
+_数据快照: `data/card/261112.yml` · 2026-11-12T05:57:22Z._
